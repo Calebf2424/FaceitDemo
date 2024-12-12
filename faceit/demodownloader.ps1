@@ -10,7 +10,7 @@ $fileName = $args[0]
 
 # Define paths
 $sourceFolder = "C:\Users\<USERNAME>\Downloads"  # Placeholder for user profile
-$destinationFolder = "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo"
+$destinationFolder = "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo"
 $winRARPath = "<WINRAR_PATH>"  # Placeholder for WinRAR path
 
 # Ensure the destination folder exists
